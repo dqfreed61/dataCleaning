@@ -15,4 +15,9 @@ The script run_analysis.r performs these  steps for the course project
 
 6.  Finally the scripts writes out the tidy data set to a flat file named run_data_summary_dqf.txt
 
+# Data
+
+The data descriptions used in the project  can be found at this link http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+
 
