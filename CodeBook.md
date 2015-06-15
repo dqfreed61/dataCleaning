@@ -3,7 +3,7 @@
 The script run_analysis.r performs the five steps for the course project
 
 1. Merges the training and the test sets to create one data frame
-    (X_test.tst, y_test.text and subject_test.txt for test and X_train.txt, y_train.txt, subject_train.txt)
+    (X_test.tst, y_test.text and subject_test.txt for test and X_train.txt, y_train.txt, subject_train.txt are the inputs) The       data frame with the merged data is trainTest
 2. Extracts only the measurements on the mean and standard deviation for each measurement
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
